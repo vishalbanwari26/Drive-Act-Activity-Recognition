@@ -6,7 +6,8 @@ This project implements a deep learning pipeline to recognize **driver actions**
 
 ## 🎥 Demo
 
-[![Driver Action Recognition Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([(https://www.youtube.com/shorts/r7v8o_iFcyA])
+[![Driver Action Recognition Demo](https://img.youtube.com/vi/r7v8o_iFcyA/0.jpg)](https://www.youtube.com/shorts/r7v8o_iFcyA)
+
 > 🔍 Inference demo: Annotated driver clips with ground truth and top-1 predicted action.
 
 ---
